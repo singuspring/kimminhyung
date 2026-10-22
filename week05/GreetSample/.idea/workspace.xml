@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15bf6025-533f-44cc-a056-f71347908395" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/../../week06/InterfaceSample/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week06/InterfaceSample/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week06/InterfaceSample/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week06/InterfaceSample/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week06/InterfaceSample/InterfaceSample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week06/InterfaceSample/src/use/Call.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week06/InterfaceSample/src/used/AddCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week06/InterfaceSample/src/used/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week06/InterfaceSample/src/used/SubCalc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GreetMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GreetMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
